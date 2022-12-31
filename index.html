@@ -4,17 +4,14 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>The Town HTML CSS Template</title>
+    <title>Cut & Sew</title>
     <link rel="stylesheet" href="fontawesome-5.5/css/all.min.css" />
     <link rel="stylesheet" href="slick/slick.css">
     <link rel="stylesheet" href="slick/slick-theme.css">
     <link rel="stylesheet" href="magnific-popup/magnific-popup.css">
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/templatemo-style.css" />
-    <!--
-	The Town
-	https://templatemo.com/tm-525-the-town
-	-->
+
   </head>
   <body>    
     <!-- Hero section -->
@@ -23,7 +20,7 @@
       <nav class="navbar navbar-expand-md tm-navbar" id="tmNav">              
         <div class="container">   
           <div class="tm-next">
-              <a href="#hero" class="navbar-brand">The Town</a>
+              <a href="#hero" class="navbar-brand">Cut & Sew</a>
           </div>             
             
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,10 +44,9 @@
       
       <div class="text-center tm-hero-text-container">
         <div class="tm-hero-text-container-inner">
-            <h2 class="tm-hero-title">The Town</h2>
-            <p class="tm-hero-subtitle">
-              Parallax Bootstrap Theme
-              <br />by TemplateMo
+            <h2 class="tm-hero-title">Cut & Sew</h2>
+            <p class="tm-hero-subtitle">        
+              <br />and ATS Manufacturing Company
             </p>
         </div>        
       </div>
@@ -72,14 +68,10 @@
             <div class="tm-intro-text-container">
                 <h2 class="tm-text-primary mb-4 tm-section-title">Introduction</h2>
                 <p class="mb-4 tm-intro-text">
-                  The Town is <strong>simple CSS template</strong> built on Bootstrap v4.1.3 
-                  and this is a little parallax layout that you can use for your websites.
+                  Cut and sew is a <strong>custom fabrication shop</strong> we help bring your dreams to life. When you're ready to bring your product to market, we can help build, source and deliver to your customers. 
               </p>
                 <p class="mb-5 tm-intro-text">
-                  Please tell your friends about our site 
-                  <a rel="nofollow" href="https://templatemo.com">templatemo</a>. Thank you.
-                  Curabitur dapibus tristique enim a imperdiet. Etiam
-              tristique sem sed condimentum posuere. </p>
+                  We are a custom soft goods manufacturing shop with low minimum order quanities (MOQ) with the benefit of <strong>built in the USA.</strong></p>
                 <div class="tm-next">
                   <a href="#work" class="tm-intro-text tm-btn-primary">Read More</a>
                 </div>
@@ -89,31 +81,25 @@
 
         <div class="row tm-section-pad-top">
           <div class="col-lg-4">
-            <i class="fas fa-4x fa-bus text-center tm-icon"></i>
-            <h4 class="text-center tm-text-primary mb-4">Curabitur at elit eu risus</h4>
+            <i class="fas fa-4x fa-hand-scissors text-center tm-icon"></i>
+            <h4 class="text-center tm-text-primary mb-4">Expert opinions</h4>
             <p>
-              Sed ultrices sit amet mi eu malesuada. Cras ultricies gravida
-              nisi, ac pellentesque nunc tincidunt quis. Aenean at ornare lacus.
-              Duis imperdiet lacus justo.
+              Our expert team will help assess your product, optimize constuction for efficient manufacturing, source your materials and deliver on time. 
             </p>
           </div>
         
         <div class="col-lg-4 mt-5 mt-lg-0">
           <i class="fas fa-4x fa-bicycle text-center tm-icon"></i>
-          <h4 class="text-center tm-text-primary mb-4">Nunc sed metus vel nisi</h4>
+          <h4 class="text-center tm-text-primary mb-4">Sourcing</h4>
           <p>
-            Praesent ut finibus leo. Duis et tempus ipsum, id pretium nunc.
-            Vivamus imperdiet sem quis orci pharetra convallis. Nunc a tempus
-            nisi, sed fringilla purus. In hac habitasse platea.
+            We work with a wide array of distributors to source any material you need. Have your own materials? Pre made constructions? No problem. We're flexible. 
           </p>
         </div>
         <div class="col-lg-4 mt-5 mt-lg-0">
           <i class="fas fa-4x fa-city text-center tm-icon"></i>
-          <h4 class="text-center tm-text-primary mb-4">Fusce sed nisi sagittis</h4>
+          <h4 class="text-center tm-text-primary mb-4">Built in the USA</h4>
           <p>
-            Donec vestibulum libero nisl. Curabitur ac orci ac lorem blandit
-            volutpat. Sed ac sodales nibh, ut porttitor elit. Sed id dui mi.
-            Vestibulum ante ipsum primis in faucibus.
+            How many people can still say that? Our team works entirely in Holyoke Massachusetts. 
           </p>
         </div>
       </div>
