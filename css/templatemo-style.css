@@ -47,7 +47,7 @@ a:focus {
 }
 
 .tm-text-secondary {
-  color: #4d3110;
+  color: black;
   font-weight: normal;
 }
 
@@ -91,7 +91,7 @@ a:focus {
 
 .navbar-brand:hover,
 .tm-navbar.scroll .navbar-brand:hover {
-  color: #4d3110;
+  color: black;
 }
 
 .tm-navbar.scroll .navbar-brand {
@@ -113,7 +113,7 @@ a:focus {
 .tm-navbar.scroll .tm-nav-link:hover,
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
-  color: #4d3110;
+  color: black;
 }
 
 .navbar-toggler {
@@ -209,7 +209,7 @@ a:focus {
 }
 
 .tm-down-arrow {
-  color: #4d3110;
+  color: black;
   cursor: pointer;
   background: white;
   border-radius: 50%;
@@ -220,7 +220,7 @@ a:focus {
 .tm-down-arrow:hover,
 .tm-down-arrow:focus {
   color: white;
-  background: #4d3110;
+  background: black;
 }
 
 /* Introduction */
@@ -278,7 +278,7 @@ a:focus {
 .slick-dots li button:focus:before,
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  color: #4d3110;
+  color: black;
 }
 
 .slick-dots li button:before {
@@ -296,7 +296,7 @@ a:focus {
 	max-width: 480px;
 	max-height: 360px;
 	width: 48%; */
-  background: #4d3110;
+  background: black;
   text-align: center;
   cursor: pointer;
 }
@@ -386,7 +386,7 @@ figure.effect-honey figcaption::before {
   left: 0;
   width: 100%;
   height: 10px;
-  background: #4d3110;
+  background: black;
   content: "";
   -webkit-transform: translate3d(0, 10px, 0);
   transform: translate3d(0, 10px, 0);
@@ -424,6 +424,17 @@ figure.effect-honey:hover h2 i {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
+}
+
+#aboutus {
+  color: white;
+  background-image: url(../img/americaFyea.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 850px;
+  position: relative;
+  padding-bottom: 50px;
+  padding-top: 160px;
 }
 
 /* Contact */
@@ -618,3 +629,4 @@ p {
     margin-top: 20px;
   }
 }
+
